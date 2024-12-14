@@ -1,6 +1,6 @@
 #Calcular o fatorial que leia um número qualquer e mostre o seu fatorial.
 
-n = int(input('digite um número para calcular seu factorial: '))
+n = int(input('Digite um número para calcular seu factorial: '))
 c = n
 f = 1
 print('Calculando {}! = '.format(n), end='')
